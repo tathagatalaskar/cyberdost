@@ -16,7 +16,7 @@
 - **Z-Plus Security** — Source maps disabled, ownership watermarks, base64 fingerprints
 
 ## Tech Stack
-React 18 | Groq AI (Llama 3.3) | CSS-in-JS | Vercel
+React 18 | CSS-in-JS | Vercel
 
 ## Setup
 ```bash
