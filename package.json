@@ -1,0 +1,25 @@
+{
+  "name": "cyberdost",
+  "version": "3.0.0",
+  "description": "CyberDost — India's First Bilingual AI Cyber-Safety Companion | KRIWA AI Challenge 2026 Grand Finale",
+  "author": "Tathagata Laskar <tathagatalaskar@gmail.com>",
+  "contributors": ["Tathagata Laskar (Lead, UID: 24BCS11358)", "Devaansh Singh"],
+  "license": "UNLICENSED",
+  "private": true,
+  "repository": "https://github.com/tathagatalaskar/cyberdost",
+  "homepage": "https://cyberdost.vercel.app",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version"]
+  }
+}
