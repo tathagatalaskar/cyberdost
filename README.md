@@ -10,7 +10,6 @@
 - **120+ Threat Patterns** — KYC fraud, digital arrest, lottery, loan, job scams, SIM swap, electricity bill scam, investment fraud, AnyDesk/TeamViewer remote access
 - **60+ Bank Sender IDs** — SBI, HDFC, ICICI, Axis, BOB, Union Bank, PNB, Kotak, and more
 - **Bilingual** — Full Hindi (Devanagari) and English with real-time toggle
-- **AI-Powered** — Groq Llama 3.3 70B for deep contextual analysis (free tier)
 - **Secure Auth** — Login with password strength enforcement
 - **Analysis History** — Track all past scans
 - **Real Bank SMS Recognition** — Tested with actual BOB and Union Bank messages
